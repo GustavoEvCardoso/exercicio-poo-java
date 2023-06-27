@@ -6,7 +6,7 @@ public class JogoV3 {
 				
 	public static void main(String[] args) throws InterruptedException { //joga para outro quando der problema
 		Random random = new Random();
-		Personagem pescador = new Personagem ("Pedro",10,10,10);
+		Personagem pescador = new Personagem ("Pedro",10,5,3);
 
 		
 		while(true) {
